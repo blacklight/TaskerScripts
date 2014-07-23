@@ -1,0 +1,2 @@
+setGlobal("HOME", "0");
+
